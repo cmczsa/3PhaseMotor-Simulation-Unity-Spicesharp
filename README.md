@@ -2,7 +2,7 @@
 
 Create a three-phase motor model and simulate its transient in Unity based on spice#.
 
-All the code and packages are uploaded on __Google Drive__, for the whole project file is too large to upload on Github.
+All the code and packages are uploaded on __Google Drive__ (), for the whole project file is too large to upload on Github.
 
 # Files And Scenes
 
