@@ -12,4 +12,6 @@ Run .exe file to see the scene.
 2. "ConveyorMotorView" folder shows the working scene of a factory, including a conveyor, motor, manipulator.
 Run .exe file to see the scene.
 
+![image](https://github.com/cmczsa/3PhaseMotor-Simulation-Unity-Spicesharp/blob/master/image/simulation2.png)
+
 # 3D Model
