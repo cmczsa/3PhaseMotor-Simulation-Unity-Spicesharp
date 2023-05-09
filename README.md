@@ -2,7 +2,7 @@
 
 Create a three-phase motor model and simulate its transient in Unity based on spice#.
 
-# Files
+# Files And Scenes
 
 1. "OnlyMotor" folder shows the working scene of a three-phase AC motor. It's states are ploted in the meantime. 
 Run .exe file to see the scene.
@@ -14,12 +14,17 @@ Run .exe file to see the scene.
 
 ![image](https://github.com/cmczsa/3PhaseMotor-Simulation-Unity-Spicesharp/blob/master/image/simulation2.png)
 
+# Simulation Datas
+
+![image](https://github.com/cmczsa/3PhaseMotor-Simulation-Unity-Spicesharp/blob/master/image/lines.png)
+
 # 3D Model
 
 ![image](https://github.com/cmczsa/3PhaseMotor-Simulation-Unity-Spicesharp/blob/master/image/model.png)
 
 # Three-phase AC motor circuit
 
-![image](https://github.com/cmczsa/3PhaseMotor-Simulation-Unity-Spicesharp/blob/master/image/circle.png)
-
 ![image](https://github.com/cmczsa/3PhaseMotor-Simulation-Unity-Spicesharp/blob/master/image/circle1.png)
+
+![image](https://github.com/cmczsa/3PhaseMotor-Simulation-Unity-Spicesharp/blob/master/image/circle2.png)
+
