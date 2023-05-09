@@ -15,3 +15,11 @@ Run .exe file to see the scene.
 ![image](https://github.com/cmczsa/3PhaseMotor-Simulation-Unity-Spicesharp/blob/master/image/simulation2.png)
 
 # 3D Model
+
+![image](https://github.com/cmczsa/3PhaseMotor-Simulation-Unity-Spicesharp/blob/master/image/model.png)
+
+# Three-phase AC motor circuit
+
+![image](https://github.com/cmczsa/3PhaseMotor-Simulation-Unity-Spicesharp/blob/master/image/circle.png)
+
+![image](https://github.com/cmczsa/3PhaseMotor-Simulation-Unity-Spicesharp/blob/master/image/circle1.png)
