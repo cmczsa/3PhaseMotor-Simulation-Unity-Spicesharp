@@ -6,7 +6,7 @@ All the code and packages are uploaded on __Google Drive__, for the whole projec
 
 # Files And Scenes
 
-  ## "ACMotor_viewScene" folder
+## "ACMotor_viewScene" folder
 
 This folder contains the scenes exported from Unity. 
 
@@ -20,7 +20,7 @@ Run .exe file to see the scene.
 
 ![image](https://github.com/cmczsa/3PhaseMotor-Simulation-Unity-Spicesharp/blob/master/image/simulation2.png)
 
-  ## "ACMptor_Unity" folder
+## "ACMptor_Unity" folder
 
 The __whole Unity project__, contains C# scripts, model files, Nuget packages and plugins. 
 
