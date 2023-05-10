@@ -4,7 +4,7 @@ Create a three-phase motor model and simulate its transient in Unity based on sp
 
 All the code and packages are uploaded on 
 
-__Google Drive__ (https://drive.google.com/drive/folders/188zbhcGzTjfGYZjGA9DhB000N4QJaM8J?usp=share_link), for the whole project file is too large to upload on Github.
+[__Google Drive__ ](https://drive.google.com/drive/folders/188zbhcGzTjfGYZjGA9DhB000N4QJaM8J?usp=share_link), for the whole project file is too large to upload on Github.
 
 # Files And Scenes
 
