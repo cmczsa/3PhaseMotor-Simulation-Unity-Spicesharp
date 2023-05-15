@@ -1,2 +1,0 @@
-ConveyorMotorView filter=lfs diff=lfs merge=lfs -text
-OnlyMotor filter=lfs diff=lfs merge=lfs -text
