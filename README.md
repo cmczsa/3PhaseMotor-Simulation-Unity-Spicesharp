@@ -8,7 +8,9 @@ All the code and packages are uploaded on
 
 # Files And Scenes
 
-## "ACMotor_viewScene" folder
+## "ACMotor_viewScene" .zip file
+
+![image](https://github.com/cmczsa/3PhaseMotor-Simulation-Unity-Spicesharp/blob/master/image/simulation.png)
 
 This folder contains the scenes exported from Unity. 
 
