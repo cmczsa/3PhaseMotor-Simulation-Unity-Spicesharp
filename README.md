@@ -10,9 +10,7 @@ All the code and packages are uploaded on
 
 ## "ACMotor_viewScene" .zip file
 
-![image](https://github.com/cmczsa/3PhaseMotor-Simulation-Unity-Spicesharp/blob/master/image/simulation.png)
-
-This folder contains the scenes exported from Unity. 
+This .zip file contains the scenes exported from Unity. 
 
 1. "OnlyMotorView" folder shows the working scene of a three-phase AC motor. It's states are ploted in the meantime. 
 Run .exe file to see the scene.
@@ -24,11 +22,11 @@ Run .exe file to see the scene.
 
 ![image](https://github.com/cmczsa/3PhaseMotor-Simulation-Unity-Spicesharp/blob/master/image/simulation2.png)
 
-## "ACMptor_Unity" folder
+## "ACMptor_Unity" .zip file
 
 The __whole Unity project__, contains C# scripts, model files, Nuget packages and plugins. 
 
-Two scenes "sampledemo", "game4automation" are exported as .exe files in "OnlyMotorView" folder.
+Two scenes "sampledemo", "game4automation" are exported as .exe files in "OnlyMotorView" folder and "ConveyorMotorView" folder.
 
 # Simulation Datas
 
